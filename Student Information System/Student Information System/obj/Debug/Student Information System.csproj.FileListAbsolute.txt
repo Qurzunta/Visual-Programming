@@ -1,0 +1,12 @@
+c:\users\qurzu\documents\visual studio 2013\Projects\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+c:\users\qurzu\documents\visual studio 2013\Projects\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+c:\users\qurzu\documents\visual studio 2013\Projects\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+c:\users\qurzu\documents\visual studio 2013\Projects\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+c:\users\qurzu\documents\visual studio 2013\Projects\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+c:\users\qurzu\documents\visual studio 2013\Projects\Student Information System\Student Information System\obj\Debug\Student Information System.csprojResolveAssemblyReference.cache
+E:\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+E:\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+E:\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+E:\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+E:\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+E:\Student Information System\Student Information System\obj\Debug\Student Information System.csprojResolveAssemblyReference.cache
